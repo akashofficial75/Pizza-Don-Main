@@ -22,6 +22,13 @@ The website is designed to provide customers with an engaging experience while m
 🚀 Optimized for modern browsers
 🌐 Live Website
 
+
+## 🔐 Admin Credentials
+
+**Admin Password 1:** `Pizzadon2026`
+
+**Admin Password 2:** `PizzaDon#2026!SecurePass`
+
 Website:
 https://one23-5iuu.onrender.com/
 
