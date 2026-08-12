@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Don Dhamrai",
+  "description": "Premium 3D Italian-American 'Don' Pizzeria in Dhamrai, Bangladesh with Table & Event Reservations, WhatsApp Food Ordering, and custom Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
