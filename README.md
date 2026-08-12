@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+🍕 Pizza Don — Premium 3D Restaurant Website
 
-# Run and deploy your AI Studio app
+A modern, premium, and interactive 3D restaurant website developed for Pizza Don by AkashProg.
 
-This contains everything you need to run your app locally.
+The website is designed to provide customers with an engaging experience while making it easy to explore the restaurant's menu, dishes, pricing, contact information, and other important details.
 
-View your app in AI Studio: https://ai.studio/apps/9cb2afb1-f969-43db-9ecc-655b28462998
+✨ Features
+🍕 Premium Pizza-themed UI/UX
+🎨 Modern & aesthetic design
+🧊 Interactive 3D elements
+📱 Fully responsive design
+📋 Dynamic restaurant menu
+💰 Dish details & pricing
+🖼️ Food & restaurant showcase
+📞 Contact & restaurant information
+⚡ Smooth animations & interactions
+🔐 Dedicated Admin Panel
+🛠️ Admin-controlled menu management
+➕ Add new dishes
+✏️ Update dish information & pricing
+🗑️ Remove dishes
+🚀 Optimized for modern browsers
+🌐 Live Website
 
-## Run Locally
+Website:
+https://one23-5iuu.onrender.com/
 
-**Prerequisites:**  Node.js
+🔐 Admin Panel
 
+Admin Panel:
+https://one23-5iuu.onrender.com/admin
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+⚠️ Admin credentials are kept private and are not included in this public repository.
+
+👨‍💻 Developed By
+
+AkashProg
+Premium Web Development & Digital Solutions
+
+Portfolio:
+https://akashprog.netlify.app/
+
+📌 Project Status
+
+Completed & Ready for Deployment 🚀
